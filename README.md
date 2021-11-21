@@ -11,3 +11,5 @@
 
 1. 선택자(부모와 자식, 조상과 자손)
 2. 적응형? 반응형? 인터랙티브 웹..?
+3. html 기본 공부 하며(section, article, checkbox, radio, button, inline&block)
+4. 시맨틱 마크업 관련
