@@ -17,6 +17,6 @@
 - <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/007_parseint_floor.md">007 소수점 아래 처리할 때</a>
 - <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/008_upper_lower.md">008 대문자 소문자</a>
 - <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/009_date_method.md">009 Date()로 날짜 처리하기</a>
-- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/010.innerText.md">010 innerText, innerHTML, textContent</a>
-- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/011.api_fetch.md">011 fetch 사용법</a>
-- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/012.regExp.md">012 정규식(규식이 형)</a>
+- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/010_innerText.md">010 innerText, innerHTML, textContent</a>
+- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/011_api_fetch.md">011 fetch 사용법</a>
+- <a href="https://github.com/nurimeansworld/nu-pedia/blob/main/02_js/012_regExp.md">012 정규식(규식이 형)</a>
